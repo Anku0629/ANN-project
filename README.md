@@ -1,5 +1,5 @@
 # ANN-project 
-Objective:
+Objective:...
 Analyze car sales data to understand factors influencing prices and provide insights for pricing strategies.
 
 Key Activities:
